@@ -1,2 +1,2 @@
-# SySPrac02SaulCastaneda
-SyS 2021-2 Practica #02
+# Senales-y-Sistemas-Practica02
+En esta practica se trabaja la manipulacion de senales como funciones por medio de MATLAB
